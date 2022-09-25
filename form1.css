@@ -119,5 +119,5 @@ body
 }
 .link a:hover{
     color: blue;
-    text-shadow: 2px 2px 2px#6d706f;
+    /* text-shadow: 2px 2px 2px#6d706f; */
 }
